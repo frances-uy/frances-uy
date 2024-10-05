@@ -21,6 +21,6 @@ Advanced machine learning techniques and their applications in real-time data pr
 
 ### 👩🏻‍💻 Connect with Me
 
-Email: francesmichuy@gmail.com
-Phone: (808) 745-8537
-[LinkedIn](https://www.linkedin.com/in/frances-michelle-uy/)
+- Email: francesmichuy@gmail.com
+- Phone: (808) 745-8537
+- [LinkedIn](https://www.linkedin.com/in/frances-michelle-uy/)
