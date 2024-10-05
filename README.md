@@ -1,6 +1,9 @@
 # Hello, I'm Frances 👋
 
 ### 🎓 Computer Science Student | Data Science Track
+
+I'm a fourth-year Computer Science student at the University of Hawai‘i at Mānoa, specializing in Data Science. I love blending creativity with technology to develop innovative AI-powered solutions that benefit our communities.
+
 ---
 ### 🔭 Tools I Use
 
