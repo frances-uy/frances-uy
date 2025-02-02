@@ -7,7 +7,7 @@ I'm a fourth-year Computer Science student at the University of Hawai‘i at Mā
 ---
 ### 🔭 Tools I Use
 
-- Languages: Python, R, JavaScript, C, C++
+- Languages: Python, R, JavaScript, TypeScript, C, C++
 - Frameworks & Libraries: Tensorflow, Keras, Scikit-learn, Pandas, NumPy, React, React Native
 - DevOps: Docker, Git
 - Cloud: AWS, Firebase
@@ -15,12 +15,12 @@ I'm a fourth-year Computer Science student at the University of Hawai‘i at Mā
 ---
 ### 🌱 I'm currently learning and interested in
 
-Advanced machine learning techniques and their applications in real-time data processing.
+- Advanced machine learning techniques and their applications in real-time data processing.
+- Building AI-powered solutions that contribute to the thriving tech sector in Hawai‘i.
 
 ---
 
 ### 👩🏻‍💻 Connect with Me
 
 - Email: francesmichuy@gmail.com
-- Phone: (808) 745-8537
 - [LinkedIn](https://www.linkedin.com/in/frances-michelle-uy/)
