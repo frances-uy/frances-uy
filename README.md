@@ -1,22 +1,28 @@
 # Hello, I'm Frances 👋
 
-### 🎓 Computer Science Student | Data Science Track
+### 🎓 Recent Computer Science Graduate | Machine Learning
 
-I'm a fourth-year Computer Science student at the University of Hawai‘i at Mānoa, specializing in Data Science. I love blending creativity with technology to develop innovative AI-powered solutions that benefit our communities.
+I'm a recent Computer Science graduate from the University of Hawaiʻi at Mānoa, passionate about building machine learning solutions that solve real-world problems. I love combining technical expertise with creative problem-solving to develop AI-powered applications.
+
+### What I Do
+
+- Machine Learning Engineering: Building CNN models, computer vision systems, and end-to-end ML pipelines
+- Full-Stack Development: Creating scalable web and mobile applications
+- Research & Innovation: Collaborating on projects that bridge technology and scientific discovery
 
 ---
 ### 🔭 Tools I Use
 
-- Languages: Python, R, JavaScript, TypeScript, C, C++
-- Frameworks & Libraries: Tensorflow, Keras, Scikit-learn, Pandas, NumPy, React, React Native
-- DevOps: Docker, Git
-- Cloud: AWS, Firebase
-
+- Languages: Python, JavaScript, SQL, C++
+- ML & AI: TensorFlow, PyTorch, Scikit-learn, Computer Vision, Deep Learning
+- Web & Mobile: React, Firebase, Docker, Git
+- Cloud & Data: AWS, PostgreSQL, MySQL, Data Visualization
 ---
 ### 🌱 I'm currently learning and interested in
 
-- Advanced machine learning techniques and their applications in real-time data processing.
-- Building AI-powered solutions that contribute to the thriving tech sector in Hawai‘i.
+-  Seeking Machine Learning Engineer opportunities where I can apply my experience in computer vision and full-stack development
+-  Continuously learning advanced ML techniques and exploring generative AI applications
+- Contributing to Hawaiʻi's tech community through mentorship and education
 
 ---
 
